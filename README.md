@@ -7,7 +7,7 @@ To generate Apigee Hybrid Overrides a specific Apigee Org.
 This is not an Officially Supported Google Product!
 
 ## Pre-Requisites
-* Install Pre-Reqs like `apigeeclt` , `kpt` , `jq` etc using below script
+* Install Pre-Reqs like `apigeectl` , `kpt` , `jq` etc using below script
 ```
     cd helpers
     sudo bash prepare.sh
