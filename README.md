@@ -1,7 +1,7 @@
 # Apigee Hybrid Generate Overrides
 
 ## Objective
-To generate Apigee Hybrid Overrides a specific Apigee Org.
+To generate Apigee Hybrid Overrides for a specific Apigee Org in the event they loose the previous overrides file.
 
 ## Disclaimer
 This is not an Officially Supported Google Product!
